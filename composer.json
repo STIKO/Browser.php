@@ -1,7 +1,7 @@
 {
-    "name": "cbschuld/browser.php",
+    "name": "STIKO/browser.php",
     "description": "",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "keywords": ["browser", "user agent", "detection"],
     "homepage": "http://chrisschuld.com/projects/browser-php-detecting-a-users-browser-from-php.html",
     "license": "MIT",
